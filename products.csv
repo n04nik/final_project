@@ -1,0 +1,40 @@
+product_id,category,manufacturer,product_name,quantity,price,currency
+1,Видеокарта,Palit,GeForce RTX 4070 Super JetStream OC 12GB NED407ST19K9-1043j,5,2512.11,BYN
+2,Видеокарта,Palit,GeForce RTX 4060 Dual OC NE64060T19P1-1070D,5,1213.00,BYN
+3,Видеокарта,Palit,GeForce RTX 4060 Ti Dual OC 8GB GDDR6 NE6406TT19P1-1060D,5,1508.61,BYN
+4,Видеокарта,Palit,GeForce RTX 4060 Dual NE64060019P1-1070D,5,1187.00,BYN
+5,Видеокарта,Palit,GeForce RTX 4070 Super Dual OC 12GB NED407SS19K9-1043D,5,2376.80,BYN
+6,Видеокарта,Gigabyte,GeForce RTX 3060 Gaming OC 12GB GDDR6 (rev. 2.0),5,1197.72,BYN
+7,Видеокарта,Gigabyte,GeForce RTX 4090 Gaming OC 24G GV-N4090GAMING OC-24GD,5,8900.00,BYN
+8,Видеокарта,Gigabyte,GeForce RTX 4060 Eagle OC Ice 8G GV-N4060EAGLEOC ICE-8GD,5,1252.68,BYN
+9,Видеокарта,Gigabyte,GeForce RTX 4060 Eagle OC 8G GV-N4060EAGLE OC-8GD,5,1401.92,BYN
+10,Видеокарта,Gigabyte,GeForce RTX 4060 Aero OC 8G GV-N4060AERO OC-8GD,5,1337.13,BYN
+11,Процессор,ADM,Ryzen 5 5600,5,355.68,BYN
+12,Процессор,ADM,Ryzen 5 7500F,5,566.68,BYN
+13,Процессор,ADM,Ryzen 7 7800X3D,5,2397.00,BYN
+14,Процессор,ADM,Ryzen 7 5700X,5,515.74,BYN
+15,Процессор,ADM,Ryzen 7 5700X3D,5,833.00,BYN
+16,Процессор,Intel,Core i5-12400F,5,397.48,BYN
+17,Процессор,Intel,Core i5-13400F,5,609.87,BYN
+18,Процессор,Intel,Core i3-12100F,5,230.97,BYN
+19,Процессор,Intel,Core i5-11400F,5,300.80,BYN
+20,Процессор,Intel,Core i5-12600F,5,611.94,BYN
+21,Материнская плата,ASRock,B650M-HDV/M.2,5,456.94,BYN
+22,Материнская плата,ASRock,B650M Pro RS,5,552.29,BYN
+23,Материнская плата,ASRock,B650M LiveMixer,5,628.01,BYN
+24,Материнская плата,ASRock,B550M Phantom Gaming 4,5,368.72,BYN
+25,Материнская плата,ASRock,B450M-HDV/M.4,5,213.76,BYN
+26,Материнская плата,Gigabyte,B550M Gaming X V2,5,427.00,BYN
+27,Материнская плата,Gigabyte,B550M Aorus Elite,5,380.90,BYN
+28,Материнская плата,Gigabyte,B450 Aorus Elite V2,5,342.36,BYN
+29,Материнская плата,Gigabyte,B650E Aorus Elite X AX ICE,5,1104.91,BYN
+30,Оперативная память,Kingston,FURY Beast 2x16GB DDR4 PC4-25600 KF432C16BB1K2/32,5,250.29,BYN
+31,Оперативная память,Kingston,FURY Beast 2x16GB DDR5 6000Mhz KF560C36BBEk2/32,5,375.00,BYN
+32,Оперативная память,Kingston,FURY Beast 2x8GB DDR4 PC4-25600 KF432C16BB1K2/16,5,148.35,BYN
+33,Оперативная память,Kingston,FURY Beast 2x16GB DDR4 PC4-28800 KF436C18BBK2/32,5,269.78,BYN
+34,Оперативная память,Kingston,FURY Beast 2x8GB DDR4 PC4-28800 KF436C17BBK2/16,5,148.50,BYN
+35,Оперативная память,ADATA,XPG Lancer Blade 2x16Gb DDR5 6000Mhz AX5U6000C3016G-DTLABBK,5,555.60,BYN
+36,Оперативная память,ADATA,XPG Lancer RGB 2x16Gb DDR5 6000Mhz AX5U6000C3016G-DCLARWH,5,473.43,BYN
+37,Оперативная память,ADATA,XPG Spectrix D50 RGB 2x8Gb DDR4 PC4-25600 AX5U32008G16A-DW50,5,191.45,BYN
+38,Оперативная память,ADATA,XPG Lancer RGB 2x16Gb DDR5 6000Mhz AX5U6000C3016G-DCLARBK,5,473.43,BYN
+39,Оперативная память,ADATA,XPG Lancer RGB 2x16Gb DDR5 5200Mhz AX5U5200C3816G-DCLARWH,5,436.57,BYN
