@@ -7,7 +7,7 @@
     font-family: "Popins", sans-serif;
 }
 
-body {
+body{
     display: flex;
     justify-content: center;
     align-items: center;
@@ -16,7 +16,7 @@ body {
     background-position: center;
 }
 
-.wrapper {
+.wrapper{
     width: 420px;
     background: transparent;
     border: 2px solid rgb(255, 255, 255, .2);
@@ -27,19 +27,19 @@ body {
     padding: 30px 40px;
 }
 
-.wrapper h1 {
+.wrapper h1{
     font-size: 36px;
     text-align: center;
 }
 
-.wrapper .input-box {
+.wrapper .input-box{
     width: 100%;
     height: 50px;
     margin: 30px 0;
     position: relative;
 }
 
-.input-box input {
+.input-box input{
     width: 100%;
     height: 100%;
     background: transparent;
@@ -52,11 +52,11 @@ body {
     padding: 20px 45px 20px 20px;
 }
 
-.input-box input::placeholder {
+.input-box input::placeholder{
     color: #fff;
 }
 
-.input-box i {
+.input-box i{
     position: absolute;
     right: 20px;
     top: 50%;
@@ -65,14 +65,14 @@ body {
     color: #fff;
 }
 
-.wrapper .remember {
+.wrapper .remember{
     display: flex;
     justify-content: space-between;
     font-size: 14.5px;
     margin: -15px 0 15px;
 }
 
-.remember label input {
+.remember label input{
     accent-color: #fff;
     margin-right: 3px;
 }
@@ -82,11 +82,11 @@ body {
     text-decoration: none;
 }
 
-.remember a:hover {
+.remember a:hover{
     text-decoration: underline;
 }
 
-.wrapper .btn {
+.wrapper .btn{
     width: 100%;
     height: 45px;
     background: #fff;
@@ -98,6 +98,11 @@ body {
     font-size: 16px;
     color: #333;
     font-weight: 600;
+}
+
+.wrapper .btn:hover{
+    background: rgb(114, 145, 145);
+    color: #fff ;
 }
 
 .wrapper .register-link{
