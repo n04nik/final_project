@@ -101,8 +101,8 @@ body{
 }
 
 .wrapper .btn:hover{
-    background: rgb(114, 145, 145);
-    color: #fff ;
+    background: rgb(100, 140, 140);
+    color: rgb(194, 200, 212); ;
 }
 
 .wrapper .register-link{
